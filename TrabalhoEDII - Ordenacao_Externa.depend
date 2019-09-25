@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1568407906 source:c:\users\lucas.braga\documents\c\trabalhoedii - ordenacao_externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	"Bilioteca.h"
+
+1568407944 c:\users\lucas.braga\documents\c\trabalhoedii - ordenacao_externa\bilioteca.h
+
+1569431230 source:c:\program files\devc\trabalhoedii - ordenacao_externa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	"Bilioteca.h"
+
+1569431224 c:\program files\devc\trabalhoedii - ordenacao_externa\bilioteca.h
+
